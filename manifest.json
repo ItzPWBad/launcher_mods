@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "files": {
+    "fabric-api-0.92.0.jar": "a1b2c3d4e5f6789012345678901234567",
+    "sodium-0.5.3.jar": "f9e8d7c6b5a432109876543210fedcba9",
+    "iris-1.7.2.jar": "1234567890abcdef1234567890abcdef",
+    "astral-1.7.4.8821.jar": "0987654321fedcba0987654321fedcba"
+  }
+}
