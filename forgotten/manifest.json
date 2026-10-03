@@ -1,0 +1,32 @@
+{
+  "version": "1.0.0",
+  "generated": "2026-10-03T21:41:14.544Z",
+  "build": "forgotten",
+  "totalMods": 23,
+  "totalSizeMB": 79.51,
+  "files": {
+    "Axiom-6.0.5-for-MC1.21.11.jar": "492aafab116e6ec61faa214e130a97e1",
+    "BadOptimizations-2.4.1-1.21.11.jar": "6d595f1312c0774158eefcaa06612286",
+    "BendableCuboidsFabric-2.0.1+mc.1.21.11.jar": "c4b1a11f7cd1e3522c4406a16db2599f",
+    "BetterF3-17.0.0-Fabric-1.21.11.jar": "6514c20b73422437c9662484b07ad207",
+    "bobby-5.2.11.1+mc1.21.11.jar": "859fa578ad9b97a829ebc1ba52db8117",
+    "chat_heads-1.2.8-fabric-1.21.11.jar": "ce5103769b57d7c3183a91c49e2b993e",
+    "cloth-config-21.11.153-fabric.jar": "9de770889c2b19445f57f881e4f7d6f8",
+    "entity_model_features-3.3.8-1.21.11-fabric.jar": "c8e94a0afe1dcdfacc99286967e00d25",
+    "entity_texture_features-7.2.4-1.21.11-fabric.jar": "224176f18ce909567fc405f17295b777",
+    "fabric-api-0.141.6+1.21.11.jar": "d16a96ba9b0797054a012cfb1f5fd6a8",
+    "forsaken-astral-3.0+1.21.11.jar": "07470bafd64fae88fd729314224cc8ca",
+    "iris-fabric-1.10.7+mc1.21.11.jar": "5a7742b06041a0a98aa5df00ec8ce9a9",
+    "IrisExtension-fabric-1.0.2-mc1.21.11.jar": "c9628d9cd2cc755d13dc747e12475f24",
+    "lambdynamiclights-4.9.1+1.21.11.jar": "35d4fa10a0e9678d60022e73ae9fe814",
+    "modmenu-17.0.0.jar": "c46182d61ea8f99e68f5d86af1b3fdd8",
+    "morechathistory-1.3.1.jar": "cd040faa8025103baf571a3ce15d4a8a",
+    "MouseTweaks-fabric-mc1.21.11-2.30.jar": "44f747eddb6318544459f02bfbebf752",
+    "PatPat-1.3.1+1.21.11+fabric.jar": "0c3474c13b2cf2025a535c5ea7714c99",
+    "placeholder-api-2.8.2+1.21.10.jar": "392f27ec00dd71b8b4a9819f9449e856",
+    "PlayerAnimationLibFabric-1.1.10+mc.1.21.11.jar": "0195734a42e0148f9f002614f722e622",
+    "sodium-fabric-0.8.11+mc1.21.11.jar": "44ea0951e8a21a607911af0a3c80105e",
+    "worldedit-mod-7.4.2.jar": "6d596f958410434f2556f0721eb41f13",
+    "yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar": "0de1337147953ff71854bfd4ce874629"
+  }
+}
