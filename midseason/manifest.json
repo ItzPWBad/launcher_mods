@@ -1,9 +1,9 @@
 {
   "version": "1.0.0",
-  "generated": "2026-10-29T21:58:33.465Z",
+  "generated": "2026-10-30T01:16:22.942Z",
   "build": "midseason",
   "totalMods": 90,
-  "totalSizeMB": 202.91,
+  "totalSizeMB": 202.92,
   "files": {
     "AmbientSounds_FABRIC_v6.3.5_mc1.21.11.jar": "74e1d8065ebe800761812329cf1398ef",
     "animatica-0.6.1+1.21.5.jar": "1e3bf1a8841f5ca84a88325b68e5cee8",
@@ -58,7 +58,7 @@
     "main-menu-credits-1.2.0.jar": "fa6c077f11eee6b737df0c69f7bf609a",
     "malilib-fabric-1.21.11-0.27.20.jar": "c732220a0e790e74cab9ecb770861598",
     "melody_fabric_1.0.15_MC_1.21.11.jar": "8b7f0aef2acc3c59d67f79809608b5a8",
-    "middle-1.0.0.jar": "9c76862500101f791be94b7a32a56322",
+    "middle-1.0.0.jar": "11084189f4f28b72efa7c4e0d22f2ff6",
     "mixintrace-1.1.1+1.17.jar": "25673336ece740d8127ae7525bc0cd4f",
     "modernfix-5.26.3-build.2.jar": "82f9f06800637ba0ae62a293118dc2cf",
     "modmenu-17.0.1.jar": "83193b9ef9bcb677f5c7ed57da75b3cf",
