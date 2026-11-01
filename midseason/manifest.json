@@ -1,9 +1,9 @@
 {
   "version": "1.0.0",
-  "generated": "2026-11-01T08:41:28.858Z",
+  "generated": "2026-11-01T09:15:36.219Z",
   "build": "midseason",
-  "totalMods": 93,
-  "totalSizeMB": 249.27,
+  "totalMods": 92,
+  "totalSizeMB": 248.81,
   "files": {
     "AmbientSounds_FABRIC_v6.3.5_mc1.21.11.jar": "74e1d8065ebe800761812329cf1398ef",
     "animatica-0.6.1+1.21.5.jar": "1e3bf1a8841f5ca84a88325b68e5cee8",
@@ -91,7 +91,6 @@
     "sounds-2.4.23+edge+1.21.11-fabric.jar": "938a707291028939496281b988c7d8cb",
     "supermartijn642configlib-1.1.8-fabric-mc1.21.11.jar": "8828caa78ebea8f6e9450da1f0d50229",
     "tab_player_highlighter-2.2.0-1.21.11.jar": "f43ecb75693b4e954b38f87d43c2f6ad",
-    "tetrismc-1.1.2-mc1.21.11.jar": "b1147354f957da5a388cce2aa3d7d0c6",
     "tlib-fabric-1.5.0-1.21.11.jar": "bd0b74105bf225ec9dbf5e6a2ab57bfe",
     "tool-trims-v3.0.7-for-1.21.11+.jar": "77de63b27db4242d2a64d46d88f85be5",
     "tools-on-my-back-1.1.2+1.21.11+fabric.jar": "173b0a4fe05c1d9895c0a5aff989ca4f",
