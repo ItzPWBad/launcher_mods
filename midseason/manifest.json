@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "generated": "2026-11-01T09:17:50.479Z",
+  "generated": "2026-11-01T11:22:01.879Z",
   "build": "midseason",
   "totalMods": 92,
   "totalSizeMB": 248.81,
@@ -81,7 +81,7 @@
     "puzzle-fabric-2.3.0+1.21.11.jar": "aebfc7993199aa51001856f83d6e3eb4",
     "reeses-sodium-options-fabric-2.2.4+mc1.21.11.jar": "7fd812b1c4643dd724e4ea1e481aef28",
     "rrlsFabric-5.1.15+mc.1.21.11.jar": "b0f1caaca547f9c35925246641e21ddd",
-    "simpleradio-fabric-1.21.11-4.5.7.9.8.jar": "824cac13f11cf062a0b541daf7fc2923",
+    "simpleradio-fabric-1.21.11-4.5.7.9.8.jar": "3f615dee59496417a9b4d5d41da7f63d",
     "SimpleVoiceChatScroll-0.0.2+mc1.21.11-universal.jar": "05e1e01306f4ae8854e3ef294b60b120",
     "skyboxify-3.4+1.21.11-fabric.jar": "3b53998eee78c69b27148d17d37522d8",
     "sodium-extra-fabric-0.9.4+mc1.21.11.jar": "9391c41048b082b0cdebfd7777d23e02",
